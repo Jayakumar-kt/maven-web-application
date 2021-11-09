@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-	<h1 aligm="center">hello friends i tried Github-Webhook</h1>
+	<h1 aligm="center">hello friends i tried Github-webhook</h1>
 <h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
